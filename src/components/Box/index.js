@@ -29,7 +29,6 @@ const Box = styled.div`
     font-size: 16px;
     font-weight: 700;
     color: #333333;
-    margin-bottom: 20px;
   }
   hr {
     margin-top: 12px;
